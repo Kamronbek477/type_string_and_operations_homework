@@ -6,7 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    s = "s"
+    a = "s"
     
-    return "s"
+    return a
 print(main())
