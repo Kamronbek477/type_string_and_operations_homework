@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return '7'*5
+    return '77777'
 print(main())
